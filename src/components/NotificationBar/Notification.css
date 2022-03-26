@@ -1,0 +1,14 @@
+.notification-area{
+    background-color: #2ECC71;
+    color: #fff;
+    font-weight: bold;
+    height: 40px;
+}
+
+.alert-link{
+    color: #fff;
+}
+
+.alert-text-area{
+    margin-top: -10px;
+}

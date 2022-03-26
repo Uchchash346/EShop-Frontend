@@ -1,0 +1,32 @@
+*{
+    font-size: 15px;
+}
+.nav-link-area{
+    color: #3e445a;
+    text-decoration: none;
+}
+
+.nav-link-area:hover{
+    color: #2ECC71;
+}
+
+.top-navigation-area{
+    display: inline-block;
+}
+
+.top-navigation-area p{
+    margin-left: 50px;
+}
+
+.top-navigation-main-area{
+    border-bottom: 1px solid #e3e4e6;
+}
+
+.btn:focus, .btn:active {
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+.secure-icon{
+    font-size: 20px;
+}
